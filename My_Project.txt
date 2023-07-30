@@ -1,0 +1,21 @@
+STUDENT INFORMATION :
+====================
+==>++
+-------------------------
+
+Student Number : 1
+Name => souvik 
+Course => btech in cse 
+Marks => 98 
+CGPA => 8.500000
+
+-------------------------
+
+Student Number : 2
+Name => dhrub  
+Course => bsc in cs 
+Marks => 89 
+CGPA => 9.100000
+
+-------------------------
+
