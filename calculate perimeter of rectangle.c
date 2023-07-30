@@ -1,4 +1,3 @@
-//QUESTION 1
 #include <stdio.h>
 //Write a program to calculate perimeter of rectangle.
 void main() 
