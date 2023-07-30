@@ -1,4 +1,3 @@
-//QUESTION 20
 #include <stdio.h>
 //Write a program to print the largest number in an array.
 
