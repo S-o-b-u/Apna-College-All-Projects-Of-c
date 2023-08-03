@@ -1,9 +1,5 @@
-//QUESTION 3
-//Write comments for programs a & b.
+//previous question => write comments for programs a & b.
 //that is totally BAWASIR;
-
-//HOMEWORK SHEET 2
-//QUESTION 4
 #include <stdio.h>
 //Write a program to print the average of 3 numbers.
 void main() 
