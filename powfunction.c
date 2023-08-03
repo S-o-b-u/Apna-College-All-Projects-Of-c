@@ -1,4 +1,3 @@
-//QUESTION 15
 #include <stdio.h>
 //Write a function to make a power function.
 
