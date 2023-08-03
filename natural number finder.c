@@ -1,4 +1,3 @@
-//QUESTION 8
 #include <stdio.h>
 //Write a program to check if the given number is a natural number(n>0).
 
