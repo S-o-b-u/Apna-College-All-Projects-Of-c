@@ -1,4 +1,3 @@
-//QUESTION 9
 #include<stdio.h>
 /* 
 a. Search on what a "nested loop" is & print this
