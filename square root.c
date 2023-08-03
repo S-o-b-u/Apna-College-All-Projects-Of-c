@@ -1,4 +1,3 @@
-//QUESTION 13
 #include <stdio.h>
 #include<math.h>
 //Write a function to find square root of a number.
