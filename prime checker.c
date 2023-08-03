@@ -1,4 +1,3 @@
-//QUESTION 10
 #include<stdio.h>
 //Write a program to check if a number is prime or not.
 void main() 
