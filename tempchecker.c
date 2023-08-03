@@ -1,4 +1,3 @@
-//QUESTION 14
 #include <stdio.h>
 #include<math.h>
 //Write a function to print "Hot" or "Cold" depending on the temperature user enters.
