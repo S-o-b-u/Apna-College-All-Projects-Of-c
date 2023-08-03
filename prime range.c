@@ -1,4 +1,3 @@
-//QUESTION 11
 #include<stdio.h>
 //Write a program to print prime numbers in a range.
 
