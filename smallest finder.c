@@ -1,4 +1,3 @@
-//QUESTION 6
 #include <stdio.h>
 //Write a program to print the smallest number of two.
 int main()
