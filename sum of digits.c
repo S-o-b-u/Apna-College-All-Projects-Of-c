@@ -1,4 +1,3 @@
-//QUESTION 12
 #include <stdio.h>
 //Write a function to find sum of digits of a number.
  
